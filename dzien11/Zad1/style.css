@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 200%;
+}
+
+div.menu_ico {
+  position: fixed;
+  top: 30px;
+  right: 50px;
+  color: #aaa;
+}
+
+div.menu_ico i {
+  font-size: 40px;
+  cursor: pointer;
+}
+
+div.menu_ico:hover {
+  color: black;
+}
